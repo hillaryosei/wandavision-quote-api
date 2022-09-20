@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-_ec3s(809xwi980@=b7jrg4u71&so75gk*ryf5i!zi50%u!o_y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['wandavision-api.herokuapp.com']
 
 
 # Application definition
