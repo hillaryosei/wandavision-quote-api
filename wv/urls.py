@@ -19,7 +19,6 @@ from wv import views
 from rest_framework.urlpatterns import format_suffix_patterns
 
 urlpatterns = [
-    path(''),
     path('admin/', admin.site.urls),
     path('quotes/', views.quote_list),
     path('quotes/<int:id>', views.quote_detail),
