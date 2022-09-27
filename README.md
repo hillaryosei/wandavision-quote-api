@@ -3,7 +3,7 @@ API using Django REST Framework to serve quotes from the Disney+ TV show, 'Wanda
 
 ## How to run locally
 ### Linux
-1. `git clone git@github.com:hillaryosei/wv-api.git`
+1. `git clone git@github.com:hillaryosei/wandavision-quote-api.git`
 2. `apt install python3`
 3. `cd wv-api`
 4. `python3 -m venv venv`
@@ -14,7 +14,7 @@ API using Django REST Framework to serve quotes from the Disney+ TV show, 'Wanda
 9. Open local host (127.0.0.1:8000) in preferred browser 
 
 ### Windows
-1. `git clone git@github.com:hillaryosei/wv-api.git`
+1. `git clone git@github.com:hillaryosei/wandavision-quote-api.git`
 2. Install python3
 3. `cd wv-api`
 4. `python -m venv venv`
