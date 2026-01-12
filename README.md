@@ -1,5 +1,4 @@
 # WandaVision Quote API
-![WandaVision poster](https://github.com/hillaryosei/wandavision-quote-api/blob/main/wandavision.jpg)
 API using Django REST Framework to serve quotes from the Disney+ TV show, 'WandaVision.'
 
 ## How to run locally
